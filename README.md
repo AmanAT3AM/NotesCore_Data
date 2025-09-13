@@ -1,4 +1,4 @@
-# To-do-list (using-core-data)
+# simple Task remider (using-core-data)
 # Add new list
 
 <img src="https://user-images.githubusercontent.com/110846816/214800056-0e0453bd-8097-4358-924b-915604597c7a.png" width="300" height="600">
